@@ -1,1 +1,2 @@
 We plotted life expectency over time. 
+Each point represents a country 
